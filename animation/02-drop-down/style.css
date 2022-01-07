@@ -43,6 +43,6 @@ li {
 }
 
 .dropdown-menu:hover ul {
-  display: inline-block;
+  display: block;
 
 }
