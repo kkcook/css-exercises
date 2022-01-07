@@ -35,3 +35,7 @@ ul {
 li {
   padding: 16px;
 }
+
+.dropdown-menu button:hover {
+  background-color: rgb(50, 172, 189);
+}
