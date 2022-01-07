@@ -14,7 +14,7 @@
 
 .dropdown-menu {
   position: relative;
-  /* display: inline-block; */
+  display: inline-block;
 }
 
 button {
@@ -38,6 +38,11 @@ li {
   padding: 16px;
 }
 
-.dropdown-menu button:hover {
+.dropdown-menu:hover button {
   background-color: rgb(39, 155, 170);
+}
+
+.dropdown-menu:hover ul {
+  display: inline-block;
+
 }
