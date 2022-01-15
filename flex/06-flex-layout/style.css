@@ -45,11 +45,7 @@ li {
   padding: 0px 10px;
 }
 
-.left-links {
-  display: flex;
-  padding: 0px;
-}
-
+.left-links,
 .right-links {
   display: flex;
   padding: 0px;
