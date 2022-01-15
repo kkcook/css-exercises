@@ -38,7 +38,8 @@ li {
   padding: 0px 10px;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
   justify-content: space-between;
   padding: 0px 10px;
@@ -61,8 +62,5 @@ li {
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
   background-color: #eeeeee;
-  padding: 0px 10px;
 }
