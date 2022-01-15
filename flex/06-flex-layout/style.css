@@ -26,9 +26,14 @@ input {
   margin-bottom: 16px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .continer {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .header {
@@ -37,5 +42,14 @@ input {
 }
 
 .header>* {
+  display: flex;
+  margin: 10px;
+}
+
+.footer {
+  display: flex;
+}
+
+.footer>* {
   display: flex;
 }
