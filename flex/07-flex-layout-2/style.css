@@ -13,6 +13,10 @@ ul {
   margin: 0;
 }
 
+li {
+  margin-bottom: 16px;
+}
+
 a {
   color: white;
   text-decoration: none;
